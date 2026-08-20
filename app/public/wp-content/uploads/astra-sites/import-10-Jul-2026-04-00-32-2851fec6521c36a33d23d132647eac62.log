@@ -1,0 +1,363 @@
+
+[04:10:37 UTC] [INFO] Image subsizes deferral enabled for import
+[04:10:38 UTC] [SUCCESS] Plugin Activated | Context: {"success":true,"status":"activated","message":"Plugin Activated"}
+[04:10:43 UTC] [INFO] Image subsizes deferral enabled for import
+[04:10:44 UTC] [INFO] ---
+
+[04:10:44 UTC] [INFO] Starting import widgets
+[04:10:44 UTC] [INFO] Importing widgets
+[04:10:44 UTC] [INFO] Starting widgets import
+[04:10:44 UTC] [INFO] Processing widget data | Context: {"data_type":"string","widgets_data_type":"string"}
+[04:10:44 UTC] [INFO] Parsing widget data from JSON string
+[04:10:44 UTC] [INFO] Importing widget data via ST_Widget_Importer
+[04:10:44 UTC] [INFO] Starting widget import process
+[04:10:44 UTC] [INFO] Checking available widgets | Context: {"widget_control_count":38}
+[04:10:44 UTC] [INFO] Widget availability check completed | Context: {"available_widget_count":34,"available_widgets":["pages","calendar","archives","media_audio","media_image","media_gallery","media_video","meta","search","text","categories","recent-posts","recent-comments","rss","tag_cloud","nav_menu","custom_html","block","woocommerce_widget_cart","woocommerce_layered_nav_filters","woocommerce_layered_nav","woocommerce_price_filter","woocommerce_product_categories","woocommerce_product_search","woocommerce_product_tag_cloud","woocommerce_products","woocommerce_recently_viewed_products","woocommerce_top_rated_products","woocommerce_recent_reviews","woocommerce_rating_filter","wc_brands_brand_description","woocommerce_brand_nav","wc_brands_brand_thumbnails","currency_switcher_widget"]}
+[04:10:44 UTC] [INFO] Loaded widget configuration | Context: {"available_widget_types":34,"sidebar_count":6}
+[04:10:44 UTC] [INFO] Processing sidebars from import data | Context: {"sidebar_count_in_data":4}
+[04:10:44 UTC] [INFO] Processing sidebar: sidebar-1 | Context: {"sidebar_name":"Main Sidebar","widget_count":9,"availability":"available"}
+[04:10:44 UTC] [INFO] Processing widget: block-2 | Context: {"widget_type":"block","instance_id":"2","sidebar_id":"sidebar-1"}
+[04:10:44 UTC] [WARNING] Duplicate widget skipped: block-2 | Context: {"widget_type":"block","existing_instance_id":"block-2","sidebar_id":"sidebar-1"}
+[04:10:44 UTC] [INFO] Processing widget: block-3 | Context: {"widget_type":"block","instance_id":"3","sidebar_id":"sidebar-1"}
+[04:10:44 UTC] [WARNING] Duplicate widget skipped: block-3 | Context: {"widget_type":"block","existing_instance_id":"block-3","sidebar_id":"sidebar-1"}
+[04:10:44 UTC] [INFO] Processing widget: block-4 | Context: {"widget_type":"block","instance_id":"4","sidebar_id":"sidebar-1"}
+[04:10:44 UTC] [WARNING] Duplicate widget skipped: block-4 | Context: {"widget_type":"block","existing_instance_id":"block-4","sidebar_id":"sidebar-1"}
+[04:10:44 UTC] [INFO] Processing widget: block-5 | Context: {"widget_type":"block","instance_id":"5","sidebar_id":"sidebar-1"}
+[04:10:44 UTC] [WARNING] Duplicate widget skipped: block-5 | Context: {"widget_type":"block","existing_instance_id":"block-5","sidebar_id":"sidebar-1"}
+[04:10:44 UTC] [INFO] Processing widget: block-6 | Context: {"widget_type":"block","instance_id":"6","sidebar_id":"sidebar-1"}
+[04:10:44 UTC] [WARNING] Duplicate widget skipped: block-6 | Context: {"widget_type":"block","existing_instance_id":"block-6","sidebar_id":"sidebar-1"}
+[04:10:44 UTC] [INFO] Processing widget: block-7 | Context: {"widget_type":"block","instance_id":"7","sidebar_id":"sidebar-1"}
+[04:10:44 UTC] [INFO] Widget data formatted and saved: block | Context: {"widget_type":"block","instance_count":7,"update_result":true}
+[04:10:44 UTC] [SUCCESS] Widget imported successfully: block-7 | Context: {"widget_type":"block","new_instance_id":"block-7","sidebar_id":"sidebar-1","widget_title":"No Title"}
+[04:10:44 UTC] [INFO] Processing widget: block-8 | Context: {"widget_type":"block","instance_id":"8","sidebar_id":"sidebar-1"}
+[04:10:44 UTC] [INFO] Widget data formatted and saved: block | Context: {"widget_type":"block","instance_count":8,"update_result":true}
+[04:10:44 UTC] [SUCCESS] Widget imported successfully: block-8 | Context: {"widget_type":"block","new_instance_id":"block-8","sidebar_id":"sidebar-1","widget_title":"No Title"}
+[04:10:44 UTC] [INFO] Processing widget: block-9 | Context: {"widget_type":"block","instance_id":"9","sidebar_id":"sidebar-1"}
+[04:10:44 UTC] [INFO] Widget data formatted and saved: block | Context: {"widget_type":"block","instance_count":9,"update_result":true}
+[04:10:44 UTC] [SUCCESS] Widget imported successfully: block-9 | Context: {"widget_type":"block","new_instance_id":"block-9","sidebar_id":"sidebar-1","widget_title":"No Title"}
+[04:10:44 UTC] [INFO] Processing widget: block-10 | Context: {"widget_type":"block","instance_id":"10","sidebar_id":"sidebar-1"}
+[04:10:44 UTC] [INFO] Widget data formatted and saved: block | Context: {"widget_type":"block","instance_count":10,"update_result":true}
+[04:10:44 UTC] [SUCCESS] Widget imported successfully: block-10 | Context: {"widget_type":"block","new_instance_id":"block-10","sidebar_id":"sidebar-1","widget_title":"No Title"}
+[04:10:44 UTC] [INFO] Processing sidebar: footer-widget-2 | Context: {"sidebar_name":"Footer Builder Widget 2","widget_count":1,"availability":"available"}
+[04:10:44 UTC] [INFO] Processing widget: block-26 | Context: {"widget_type":"block","instance_id":"26","sidebar_id":"footer-widget-2"}
+[04:10:44 UTC] [INFO] Widget data formatted and saved: block | Context: {"widget_type":"block","instance_count":11,"update_result":true}
+[04:10:44 UTC] [SUCCESS] Widget imported successfully: block-11 | Context: {"widget_type":"block","new_instance_id":"block-11","sidebar_id":"footer-widget-2","widget_title":"No Title"}
+[04:10:44 UTC] [INFO] Processing sidebar: astra-woo-shop-sidebar | Context: {"sidebar_name":"WooCommerce Sidebar","widget_count":3,"availability":"available"}
+[04:10:44 UTC] [INFO] Processing widget: block-13 | Context: {"widget_type":"block","instance_id":"13","sidebar_id":"astra-woo-shop-sidebar"}
+[04:10:44 UTC] [INFO] Widget data formatted and saved: block | Context: {"widget_type":"block","instance_count":12,"update_result":true}
+[04:10:44 UTC] [SUCCESS] Widget imported successfully: block-12 | Context: {"widget_type":"block","new_instance_id":"block-12","sidebar_id":"astra-woo-shop-sidebar","widget_title":"No Title"}
+[04:10:44 UTC] [INFO] Processing widget: woocommerce_price_filter-1 | Context: {"widget_type":"woocommerce_price_filter","instance_id":"1","sidebar_id":"astra-woo-shop-sidebar"}
+[04:10:44 UTC] [INFO] Widget data formatted and saved: woocommerce_price_filter | Context: {"widget_type":"woocommerce_price_filter","instance_count":2,"update_result":true}
+[04:10:44 UTC] [SUCCESS] Widget imported successfully: woocommerce_price_filter-1 | Context: {"widget_type":"woocommerce_price_filter","new_instance_id":"woocommerce_price_filter-1","sidebar_id":"astra-woo-shop-sidebar","widget_title":"Filter by price"}
+[04:10:44 UTC] [INFO] Processing widget: block-14 | Context: {"widget_type":"block","instance_id":"14","sidebar_id":"astra-woo-shop-sidebar"}
+[04:10:44 UTC] [INFO] Widget data formatted and saved: block | Context: {"widget_type":"block","instance_count":13,"update_result":true}
+[04:10:44 UTC] [SUCCESS] Widget imported successfully: block-13 | Context: {"widget_type":"block","new_instance_id":"block-13","sidebar_id":"astra-woo-shop-sidebar","widget_title":"No Title"}
+[04:10:44 UTC] [INFO] Processing sidebar: footer-widget-3 | Context: {"sidebar_name":"Footer Builder Widget 3","widget_count":1,"availability":"available"}
+[04:10:44 UTC] [INFO] Processing widget: block-23 | Context: {"widget_type":"block","instance_id":"23","sidebar_id":"footer-widget-3"}
+[04:10:44 UTC] [INFO] Widget data formatted and saved: block | Context: {"widget_type":"block","instance_count":14,"update_result":true}
+[04:10:44 UTC] [SUCCESS] Widget imported successfully: block-14 | Context: {"widget_type":"block","new_instance_id":"block-14","sidebar_id":"footer-widget-3","widget_title":"No Title"}
+[04:10:44 UTC] [INFO] Widget import process completed | Context: {"total_sidebars_processed":4,"successful_imports":9,"warnings":5,"errors":0,"total_widgets_processed":14}
+[04:10:44 UTC] [INFO] Retrieving current sidebars and widgets
+[04:10:44 UTC] [INFO] Backing up old widgets data | Context: {"sidebars_count":12}
+[04:10:44 UTC] [SUCCESS] Widgets import completed successfully
+[04:10:44 UTC] [SUCCESS] Widget Imported!
+[04:10:44 UTC] [INFO] Image subsizes deferral enabled for import
+[04:10:45 UTC] [INFO] Checking if plugin directory clearing is needed
+[04:10:45 UTC] [INFO] Plugin install clear directory enabled - Will clear destination directory
+[04:10:45 UTC] [INFO] Plugin install clear directory options returned
+[04:10:51 UTC] [INFO] Image subsizes deferral enabled for import
+[04:10:52 UTC] [INFO] ---
+
+[04:10:52 UTC] [INFO] Setting site data: site-logo
+[04:10:52 UTC] [INFO] Image subsizes deferral enabled for import
+[04:10:52 UTC] [SUCCESS] Plugin Activated | Context: {"success":true,"status":"activated","message":"Plugin Activated"}
+[04:10:53 UTC] [INFO] Checking if plugin directory clearing is needed
+[04:10:53 UTC] [INFO] Plugin install clear directory enabled - Will clear destination directory
+[04:10:53 UTC] [INFO] Plugin install clear directory options returned
+[04:11:00 UTC] [INFO] Image subsizes deferral enabled for import
+[04:11:00 UTC] [FATAL] There was an error on website: Uncaught Error - call_user_func_array(): Argument #1 ($callback) must be a valid callback, class "SureRank\Inc\GoogleSearchConsole\Url_Inspection" not found | Context: {"error_type":"Uncaught Error","message":"call_user_func_array(): Argument #1 ($callback) must be a valid callback, class \"SureRank\\Inc\\GoogleSearchConsole\\Url_Inspection\" not found","file":"C:\\Users\\dylan\\Local Sites\\woc-distribution\\app\\public\\wp-includes\\class-wp-hook.php","line":341,"trace":"#0 C:\\Users\\dylan\\Local Sites\\woc-distribution\\app\\public\\wp-includes\\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)\n#1 C:\\Users\\dylan\\Local Sites\\woc-distribution\\app\\public\\wp-includes\\plugin.php(522): WP_Hook->do_action(Array)\n#2 C:\\Users\\dylan\\Local Sites\\woc-distribution\\app\\public\\wp-settings.php(771): do_action('init')\n#3 C:\\Users\\dylan\\Local Sites\\woc-distribution\\app\\public\\wp-config.php(103): require_once('C:\\\\Users\\\\dylan\\\\...')\n#4 C:\\Users\\dylan\\Local Sites\\woc-distribution\\app\\public\\wp-load.php(50): require_once('C:\\\\Users\\\\dylan\\\\...')\n#5 C:\\Users\\dylan\\Local Sites\\woc-distribution\\app\\public\\wp-admin\\admin-ajax.php(22): require_once('C:\\\\Users\\\\dylan\\\\...')\n#6 {main}"}
+[04:11:03 UTC] [INFO] Image subsizes deferral enabled for import
+[04:11:03 UTC] [INFO] ---
+
+[04:11:03 UTC] [INFO] Setting site data: site-colors
+[04:11:03 UTC] [SUCCESS] Plugin Activated | Context: {"success":true,"status":"activated","message":"Plugin Activated"}
+[04:11:03 UTC] [INFO] Image subsizes deferral enabled for import
+[04:11:04 UTC] [INFO] Checking if plugin directory clearing is needed
+[04:11:04 UTC] [INFO] Plugin install clear directory enabled - Will clear destination directory
+[04:11:04 UTC] [INFO] Plugin install clear directory options returned
+[04:11:11 UTC] [INFO] Image subsizes deferral enabled for import
+[04:11:11 UTC] [INFO] ---
+
+[04:11:11 UTC] [INFO] Setting site data: site-typography
+[04:11:11 UTC] [SUCCESS] Plugin Activated | Context: {"success":true,"status":"activated","message":"Plugin Activated"}
+[04:11:11 UTC] [INFO] Image subsizes deferral enabled for import
+[04:11:11 UTC] [INFO] ---
+
+[04:11:11 UTC] [INFO] Starting import end process
+[04:11:11 UTC] [INFO] Finalizing import process
+[04:11:11 UTC] [INFO] Setting permalink structure to post name
+[04:11:11 UTC] [INFO] Executing import complete actions
+[04:11:11 UTC] [INFO] Batch processing started
+[04:11:11 UTC] [INFO] Batch processing queue created | Context: {"total_classes":14,"attachment_count":84,"has_images":true}
+[04:11:12 UTC] [INFO] Gutenberg batch processing started
+[04:11:12 UTC] [INFO] Gutenberg posts retrieved for processing | Context: {"post_count":12,"post_types":"page, post, wp_block, wp_template, wp_navigation, wp_template_part, wp_global_styles, sc_form, spectra-popup, sfwd-courses, sfwd-lessons, sfwd-topic, sfwd-quiz, sfwd-certificates, sfwd-assignment"}
+[04:11:12 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":1171}
+[04:11:12 UTC] [INFO] Replacing taxonomy category IDs in post content | Context: {"post_id":1171,"mappings_count":1}
+[04:11:12 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":1171}
+[04:11:12 UTC] [INFO] Starting link extraction and replacement process
+[04:11:12 UTC] [INFO] Links discovered in content | Context: {"total_links":0}
+[04:11:12 UTC] [INFO] No links found in content, skipping replacement
+[04:11:12 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":1171}
+[04:11:12 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":1171}
+[04:11:12 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":2130}
+[04:11:12 UTC] [INFO] Replacing taxonomy category IDs in post content | Context: {"post_id":2130,"mappings_count":1}
+[04:11:12 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":2130}
+[04:11:12 UTC] [INFO] Starting link extraction and replacement process
+[04:11:12 UTC] [INFO] Links discovered in content | Context: {"total_links":0}
+[04:11:12 UTC] [INFO] No links found in content, skipping replacement
+[04:11:12 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":2130}
+[04:11:12 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":2130}
+[04:11:12 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":2025}
+[04:11:12 UTC] [INFO] Replacing taxonomy category IDs in post content | Context: {"post_id":2025,"mappings_count":1}
+[04:11:12 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":2025}
+[04:11:12 UTC] [INFO] Starting link extraction and replacement process
+[04:11:12 UTC] [INFO] Links discovered in content | Context: {"total_links":4}
+[04:11:12 UTC] [INFO] Starting link replacements in content | Context: {"replacements_count":4}
+[04:11:12 UTC] [SUCCESS] Link replacement process completed | Context: {"total_replacements":4}
+[04:11:12 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":2025}
+[04:11:12 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":2025}
+[04:11:12 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":2318}
+[04:11:12 UTC] [INFO] Replacing taxonomy category IDs in post content | Context: {"post_id":2318,"mappings_count":1}
+[04:11:12 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":2318}
+[04:11:12 UTC] [INFO] Starting link extraction and replacement process
+[04:11:12 UTC] [INFO] Links discovered in content | Context: {"total_links":0}
+[04:11:12 UTC] [INFO] No links found in content, skipping replacement
+[04:11:12 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":2318}
+[04:11:12 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":2318}
+[04:11:12 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":2317}
+[04:11:12 UTC] [INFO] Replacing taxonomy category IDs in post content | Context: {"post_id":2317,"mappings_count":1}
+[04:11:12 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":2317}
+[04:11:12 UTC] [INFO] Starting link extraction and replacement process
+[04:11:12 UTC] [INFO] Links discovered in content | Context: {"total_links":1}
+[04:11:12 UTC] [INFO] Starting link replacements in content | Context: {"replacements_count":1}
+[04:11:12 UTC] [SUCCESS] Link replacement process completed | Context: {"total_replacements":1}
+[04:11:12 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":2317}
+[04:11:12 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":2317}
+[04:11:12 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":1378}
+[04:11:12 UTC] [INFO] Replacing taxonomy category IDs in post content | Context: {"post_id":1378,"mappings_count":1}
+[04:11:12 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":1378}
+[04:11:12 UTC] [INFO] Starting link extraction and replacement process
+[04:11:12 UTC] [INFO] Links discovered in content | Context: {"total_links":0}
+[04:11:12 UTC] [INFO] No links found in content, skipping replacement
+[04:11:12 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":1378}
+[04:11:12 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":1378}
+[04:11:12 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":1379}
+[04:11:12 UTC] [INFO] Replacing taxonomy category IDs in post content | Context: {"post_id":1379,"mappings_count":1}
+[04:11:12 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":1379}
+[04:11:12 UTC] [INFO] Starting link extraction and replacement process
+[04:11:12 UTC] [INFO] Links discovered in content | Context: {"total_links":0}
+[04:11:12 UTC] [INFO] No links found in content, skipping replacement
+[04:11:12 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":1379}
+[04:11:12 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":1379}
+[04:11:12 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":1380}
+[04:11:12 UTC] [INFO] Replacing taxonomy category IDs in post content | Context: {"post_id":1380,"mappings_count":1}
+[04:11:12 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":1380}
+[04:11:12 UTC] [INFO] Starting link extraction and replacement process
+[04:11:12 UTC] [INFO] Links discovered in content | Context: {"total_links":0}
+[04:11:12 UTC] [INFO] No links found in content, skipping replacement
+[04:11:12 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":1380}
+[04:11:12 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":1380}
+[04:11:12 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":1381}
+[04:11:12 UTC] [INFO] Replacing taxonomy category IDs in post content | Context: {"post_id":1381,"mappings_count":1}
+[04:11:12 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":1381}
+[04:11:12 UTC] [INFO] Starting link extraction and replacement process
+[04:11:12 UTC] [INFO] Links discovered in content | Context: {"total_links":0}
+[04:11:12 UTC] [INFO] No links found in content, skipping replacement
+[04:11:12 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":1381}
+[04:11:12 UTC] [INFO] Batch processing queue dispatched to background
+[04:11:12 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":1381}
+[04:11:12 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":1002}
+[04:11:12 UTC] [INFO] Replacing taxonomy category IDs in post content | Context: {"post_id":1002,"mappings_count":1}
+[04:11:12 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":1002}
+[04:11:12 UTC] [INFO] Starting link extraction and replacement process
+[04:11:12 UTC] [INFO] Links discovered in content | Context: {"total_links":8}
+[04:11:12 UTC] [INFO] Downloading images through ST_Image_Importer | Context: {"image_count":8}
+[04:11:12 UTC] [INFO] Starting image import for URL: https://websitedemos.net/plant-shop-09/wp-content/uploads/sites/1553/2021/08/Group-107.jpg
+[04:11:12 UTC] [INFO] Image already exists in media library (ID: 298), skipping download
+[04:11:12 UTC] [INFO] Starting image import for URL: https://websitedemos.net/plant-shop-09/wp-content/uploads/sites/1553/2021/08/plants-store-owner-avatar-img.jpg
+[04:11:12 UTC] [INFO] Image already exists in media library (ID: 276), skipping download
+[04:11:12 UTC] [INFO] Starting image import for URL: https://websitedemos.net/plant-shop-09/wp-content/uploads/sites/1553/2021/08/plants-store-gallery-img-6.jpg
+[04:11:12 UTC] [INFO] Image already exists in media library (ID: 305), skipping download
+[04:11:12 UTC] [INFO] Batch Process Started..
+[04:11:12 UTC] [INFO] Starting image import for URL: https://websitedemos.net/plant-shop-09/wp-content/uploads/sites/1553/2021/08/plants-store-gallery-img-1.jpg
+[04:11:12 UTC] [INFO] Starter Templates - Importing Images for Blog name 'WOC Distribution' (1)
+[04:11:12 UTC] [INFO] Image already exists in media library (ID: 306), skipping download
+[04:11:12 UTC] [INFO] Starting image import for URL: https://websitedemos.net/plant-shop-09/wp-content/uploads/sites/1553/2021/08/plants-store-gallery-img-2.jpg
+[04:11:12 UTC] [INFO] Image already exists in media library (ID: 307), skipping download
+[04:11:12 UTC] [INFO] Starting image import for URL: https://websitedemos.net/plant-shop-09/wp-content/uploads/sites/1553/2021/08/plants-store-gallery-img-3.jpg
+[04:11:12 UTC] [INFO] Image already exists in media library (ID: 308), skipping download
+[04:11:12 UTC] [INFO] Starting image import for URL: https://websitedemos.net/plant-shop-09/wp-content/uploads/sites/1553/2021/08/plants-store-gallery-img-4.jpg
+[04:11:12 UTC] [INFO] Image already exists in media library (ID: 309), skipping download
+[04:11:12 UTC] [INFO] Starting image import for URL: https://websitedemos.net/plant-shop-09/wp-content/uploads/sites/1553/2021/08/plants-store-gallery-img-5.jpg
+[04:11:12 UTC] [INFO] Image already exists in media library (ID: 310), skipping download
+[04:11:12 UTC] [INFO] Starting link replacements in content | Context: {"replacements_count":8}
+[04:11:12 UTC] [SUCCESS] Link replacement process completed | Context: {"total_replacements":8}
+[04:11:12 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":1002}
+[04:11:13 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":1002}
+[04:11:13 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":1004}
+[04:11:13 UTC] [INFO] Replacing taxonomy category IDs in post content | Context: {"post_id":1004,"mappings_count":1}
+[04:11:13 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":1004}
+[04:11:13 UTC] [INFO] Starting link extraction and replacement process
+[04:11:13 UTC] [INFO] Links discovered in content | Context: {"total_links":0}
+[04:11:13 UTC] [INFO] No links found in content, skipping replacement
+[04:11:13 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":1004}
+[04:11:13 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":1004}
+[04:11:13 UTC] [INFO] Processing Gutenberg post | Context: {"post_id":1008}
+[04:11:13 UTC] [INFO] Replacing taxonomy category IDs in post content | Context: {"post_id":1008,"mappings_count":1}
+[04:11:13 UTC] [INFO] Updating post content (first pass) | Context: {"post_id":1008}
+[04:11:13 UTC] [INFO] Starting link extraction and replacement process
+[04:11:13 UTC] [INFO] Links discovered in content | Context: {"total_links":6}
+[04:11:13 UTC] [INFO] Downloading images through ST_Image_Importer | Context: {"image_count":6}
+[04:11:13 UTC] [INFO] Starting image import for URL: https://websitedemos.net/plant-shop-09/wp-content/uploads/sites/1553/2021/09/hero-section-bg.jpg
+[04:11:13 UTC] [INFO] Image already exists in media library (ID: 845), skipping download
+[04:11:13 UTC] [INFO] Starting image import for URL: https://websitedemos.net/plant-shop-09/wp-content/uploads/sites/1553/2021/08/plants-store-story-section-img.jpg
+[04:11:13 UTC] [INFO] Image already exists in media library (ID: 548), skipping download
+[04:11:13 UTC] [INFO] Starting image import for URL: https://websitedemos.net/plant-shop-09/wp-content/uploads/sites/1553/2021/08/plants-store-testimonial-avatar-img.jpg
+[04:11:13 UTC] [INFO] Image already exists in media library (ID: 45), skipping download
+[04:11:13 UTC] [INFO] Starting image import for URL: https://websitedemos.net/plant-shop-09/wp-content/uploads/sites/1553/2021/08/plants-store-testimonials-avatar-img-2.jpg
+[04:11:13 UTC] [INFO] Image already exists in media library (ID: 492), skipping download
+[04:11:13 UTC] [INFO] Starting image import for URL: https://websitedemos.net/plant-shop-09/wp-content/uploads/sites/1553/2021/08/plants-store-testimonials-avatar-img-1.jpg
+[04:11:13 UTC] [INFO] Image already exists in media library (ID: 493), skipping download
+[04:11:13 UTC] [INFO] Starting image import for URL: https://websitedemos.net/plant-shop-09/wp-content/uploads/sites/1553/2021/08/footer-background.jpg
+[04:11:13 UTC] [INFO] Image already exists in media library (ID: 841), skipping download
+[04:11:13 UTC] [INFO] Starting link replacements in content | Context: {"replacements_count":6}
+[04:11:13 UTC] [SUCCESS] Link replacement process completed | Context: {"total_replacements":6}
+[04:11:13 UTC] [INFO] Updating post content (second pass with link replacements) | Context: {"post_id":1008}
+[04:11:13 UTC] [SUCCESS] Successfully completed processing Gutenberg post | Context: {"post_id":1008}
+[04:11:13 UTC] [SUCCESS] Gutenberg batch processing completed successfully | Context: {"posts_processed":12}
+[04:11:13 UTC] [INFO] Elementor batch processing started
+[04:11:13 UTC] [INFO] Elementor posts retrieved for processing | Context: {"post_count":12,"post_types":"page, post, wp_block, wp_template, wp_navigation, wp_template_part, wp_global_styles, sc_form"}
+[04:11:13 UTC] [INFO] Processing Elementor post | Context: {"post_id":1171}
+[04:11:13 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":1171,"has_version":false,"has_data":false}
+[04:11:13 UTC] [INFO] Processing Elementor post | Context: {"post_id":2130}
+[04:11:13 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":2130,"has_version":false,"has_data":false}
+[04:11:13 UTC] [INFO] Processing Elementor post | Context: {"post_id":2025}
+[04:11:13 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":2025,"has_version":false,"has_data":false}
+[04:11:13 UTC] [INFO] Processing Elementor post | Context: {"post_id":2318}
+[04:11:13 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":2318,"has_version":false,"has_data":false}
+[04:11:13 UTC] [INFO] Processing Elementor post | Context: {"post_id":2317}
+[04:11:13 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":2317,"has_version":false,"has_data":false}
+[04:11:13 UTC] [INFO] Processing Elementor post | Context: {"post_id":1378}
+[04:11:13 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":1378,"has_version":false,"has_data":false}
+[04:11:13 UTC] [INFO] Processing Elementor post | Context: {"post_id":1379}
+[04:11:13 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":1379,"has_version":false,"has_data":false}
+[04:11:13 UTC] [INFO] Processing Elementor post | Context: {"post_id":1380}
+[04:11:13 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":1380,"has_version":false,"has_data":false}
+[04:11:13 UTC] [INFO] Processing Elementor post | Context: {"post_id":1381}
+[04:11:13 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":1381,"has_version":false,"has_data":false}
+[04:11:13 UTC] [INFO] Processing Elementor post | Context: {"post_id":1002}
+[04:11:13 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":1002,"has_version":false,"has_data":false}
+[04:11:13 UTC] [INFO] Processing Elementor post | Context: {"post_id":1004}
+[04:11:13 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":1004,"has_version":false,"has_data":false}
+[04:11:13 UTC] [INFO] Processing Elementor post | Context: {"post_id":1008}
+[04:11:13 UTC] [INFO] Skipping post - not an Elementor page or missing data | Context: {"post_id":1008,"has_version":false,"has_data":false}
+[04:11:13 UTC] [SUCCESS] Elementor batch processing completed successfully | Context: {"posts_processed":12}
+[04:11:13 UTC] [INFO] Misc batch processing started
+[04:11:13 UTC] [INFO] Misc batch processing skipped (not AI template)
+[04:11:13 UTC] [INFO] Customizer image download batch processing started
+[04:11:13 UTC] [INFO] Starting customizer image processing | Context: {"customizer_options_count":2279}
+[04:11:13 UTC] [SUCCESS] Customizer image download completed | Context: {"options_processed":2279,"images_processed_successfully":0,"images_failed":0,"total_images_attempted":0}
+[04:11:13 UTC] [SUCCESS] Customizer batch import method completed
+[04:11:13 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":84,"offset":10,"chunk_size":10}
+[04:11:13 UTC] [INFO] Processing CE image batch | Context: {"batch_size":10,"offset":10}
+[04:11:13 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":52,"file":"plants-ecommerce-product-featured-img-7.jpg"}
+[04:11:13 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":53,"file":"plants-ecommerce-product-featured-img-8.jpg"}
+[04:11:13 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2310,"file":"woocommerce-placeholder-2.webp"}
+[04:11:13 UTC] [SUCCESS] Import completed successfully!
+[04:11:14 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2311,"file":"woocommerce-placeholder-3.webp"}
+[04:11:15 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2314,"file":"woocommerce-placeholder-4.webp"}
+[04:11:15 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2315,"file":"woocommerce-placeholder-5.webp"}
+[04:11:16 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":54,"file":"plants-ecommerce-product-featured-img-9.jpg"}
+[04:11:16 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":55,"file":"plants-ecommerce-product-featured-img-10.jpg"}
+[04:11:17 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":56,"file":"plants-ecommerce-product-featured-img-11.jpg"}
+[04:11:17 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":57,"file":"plants-ecommerce-product-featured-img-12.jpg"}
+[04:11:17 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":10,"errors":0,"new_offset":20}
+[04:11:17 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":84,"offset":20,"chunk_size":10}
+[04:11:17 UTC] [INFO] Processing CE image batch | Context: {"batch_size":10,"offset":20}
+[04:11:17 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":58,"file":"plants-ecommerce-product-featured-img-13.jpg"}
+[04:11:18 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":59,"file":"plants-ecommerce-product-featured-img-14.jpg"}
+[04:11:18 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":60,"file":"plants-ecommerce-product-featured-img-15.jpg"}
+[04:11:18 UTC] [INFO] Import process completed. Cleaning up log file option.
+[04:11:18 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":61,"file":"plants-ecommerce-product-featured-img-16.jpg"}
+[04:11:19 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":62,"file":"plants-ecommerce-product-featured-img-17.jpg"}
+[04:11:19 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":63,"file":"plants-ecommerce-product-featured-img-18.jpg"}
+[04:11:19 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":64,"file":"plants-ecommerce-product-featured-img-19.jpg"}
+[04:11:19 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":65,"file":"plants-ecommerce-product-featured-img-20.jpg"}
+[04:11:20 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":66,"file":"plants-store-blog-featured-img-1.jpg"}
+[04:11:20 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":67,"file":"plants-store-blog-featured-img-2.jpg"}
+[04:11:20 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":10,"errors":0,"new_offset":30}
+[04:11:20 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":84,"offset":30,"chunk_size":10}
+[04:11:20 UTC] [INFO] Processing CE image batch | Context: {"batch_size":10,"offset":30}
+[04:11:20 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":70,"file":"plants-store-new-plants-section-img-bg.jpg"}
+[04:11:21 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":269,"file":"plants-store-about-video-img-thumb.jpg"}
+[04:11:21 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":276,"file":"plants-store-owner-avatar-img.jpg"}
+[04:11:21 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":298,"file":"Group-107.jpg"}
+[04:11:22 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":305,"file":"plants-store-gallery-img-6.jpg"}
+[04:11:22 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":306,"file":"plants-store-gallery-img-1.jpg"}
+[04:11:22 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":307,"file":"plants-store-gallery-img-2.jpg"}
+[04:11:22 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":308,"file":"plants-store-gallery-img-3.jpg"}
+[04:11:22 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":309,"file":"plants-store-gallery-img-4.jpg"}
+[04:11:22 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":310,"file":"plants-store-gallery-img-5.jpg"}
+[04:11:22 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":10,"errors":0,"new_offset":40}
+[04:11:22 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":84,"offset":40,"chunk_size":10}
+[04:11:22 UTC] [INFO] Processing CE image batch | Context: {"batch_size":10,"offset":40}
+[04:11:22 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":434,"file":"plants-store-hero-img.jpg"}
+[04:11:23 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":438,"file":"site-favicon.png"}
+[04:11:23 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":492,"file":"plants-store-testimonials-avatar-img-2.jpg"}
+[04:11:23 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":493,"file":"plants-store-testimonials-avatar-img-1.jpg"}
+[04:11:23 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":544,"file":"plants-store-gift-card-section-img.jpg"}
+[04:11:24 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":548,"file":"plants-store-story-section-img.jpg"}
+[04:11:24 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":632,"file":"plants-shop-product-gallery-img-4.jpg"}
+[04:11:24 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":633,"file":"plants-shop-product-gallery-img-5.jpg"}
+[04:11:25 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":634,"file":"plants-shop-product-gallery-img-6.jpg"}
+[04:11:25 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":635,"file":"plants-shop-product-gallery-img-7.jpg"}
+[04:11:25 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":10,"errors":0,"new_offset":50}
+[04:11:25 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":84,"offset":50,"chunk_size":10}
+[04:11:25 UTC] [INFO] Processing CE image batch | Context: {"batch_size":10,"offset":50}
+[04:11:25 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":636,"file":"plants-shop-product-gallery-img-8.jpg"}
+[04:11:25 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":637,"file":"plants-shop-product-gallery-img-9.jpg"}
+[04:11:26 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":638,"file":"plants-shop-product-gallery-img-10.jpg"}
+[04:11:26 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":640,"file":"plants-shop-product-gallery-img-12.jpg"}
+[04:11:26 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":641,"file":"plants-shop-product-gallery-img-13.jpg"}
+[04:11:27 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":642,"file":"plants-shop-product-gallery-img-14.jpg"}
+[04:11:27 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":643,"file":"plants-shop-product-gallery-img-15.jpg"}
+[04:11:27 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":644,"file":"plants-shop-product-gallery-img-16.jpg"}
+[04:11:27 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":645,"file":"plants-shop-product-gallery-img-17.jpg"}
+[04:11:28 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":646,"file":"plants-shop-product-gallery-img-18.jpg"}
+[04:11:28 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":10,"errors":0,"new_offset":60}
+[04:11:28 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":84,"offset":60,"chunk_size":10}
+[04:11:28 UTC] [INFO] Processing CE image batch | Context: {"batch_size":10,"offset":60}
+[04:11:28 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":647,"file":"plants-shop-product-gallery-img-19.jpg"}
+[04:11:28 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":648,"file":"plants-shop-product-gallery-img-20.jpg"}
+[04:11:29 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":649,"file":"plants-shop-product-gallery-img-1.jpg"}
+[04:11:29 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":650,"file":"plants-shop-product-gallery-img-2.jpg"}
+[04:11:29 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":651,"file":"plants-shop-product-gallery-img-3.jpg"}
+[04:11:29 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":652,"file":"plants-shop-product-gallery-img-011.jpg"}
+[04:11:30 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":684,"file":"plants-ecommerce-accessories-product-featured-img-2.jpg"}
+[04:11:30 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":685,"file":"plants-ecommerce-accessories-product-featured-img-3.jpg"}
+[04:11:30 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":686,"file":"plants-ecommerce-accessories-product-featured-img-4.jpg"}
+[04:11:30 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":687,"file":"plants-ecommerce-accessories-product-featured-img-1.jpg"}
+[04:11:31 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":10,"errors":0,"new_offset":70}
+[04:11:31 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":84,"offset":70,"chunk_size":10}
+[04:11:31 UTC] [INFO] Processing CE image batch | Context: {"batch_size":10,"offset":70}
+[04:11:31 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":699,"file":"plants-ecommerce-accessories-product-featured-img-5.jpg"}
+[04:11:31 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":741,"file":"plants-store-categories-img-2.jpg"}
+[04:11:31 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":742,"file":"plants-store-categories-img-4.jpg"}
+[04:11:31 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":743,"file":"plants-store-categories-img-3.jpg"}
+[04:11:31 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":744,"file":"plants-store-categories-img-1.jpg"}
+[04:11:31 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":748,"file":"plants-store-hero-section-img-bg.jpg"}
+[04:11:32 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":840,"file":"footer-bg.jpg"}
+[04:11:33 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":841,"file":"footer-background.jpg"}
+[04:11:34 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":845,"file":"hero-section-bg.jpg"}
+[04:11:35 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1011,"file":"cropped-site-favicon.png"}
+[04:11:35 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":10,"errors":0,"new_offset":80}

@@ -1,0 +1,75 @@
+[10-Jul-2026 04:06:53 UTC] WordPress database error Table 'local.wp_woocommerce_attribute_taxonomies' doesn't exist for query SELECT * FROM wp_woocommerce_attribute_taxonomies WHERE attribute_name != '' ORDER BY attribute_name ASC; made by do_action('wp_ajax_astra-sites-required_plugin_activate'), WP_Hook->do_action, WP_Hook->apply_filters, AiBuilder\Inc\Ajax\Plugin->required_plugin_activate, AiBuilder\Inc\Traits\Helper::required_plugin_activate, activate_plugin, plugin_sandbox_scrape, include_once('/plugins/woocommerce/woocommerce.php'), WC, WooCommerce::instance, WooCommerce->__construct, WooCommerce->init_hooks, Automattic\WooCommerce\Internal\ProductAttributes\VisualAttributeTermAdmin->register, wc_get_attribute_taxonomies
+[10-Jul-2026 04:06:55 UTC] PHP Warning:  Undefined array key "name" in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woocommerce\includes\class-wc-install.php on line 1177
+[10-Jul-2026 04:06:55 UTC] PHP Warning:  Undefined array key "title" in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woocommerce\includes\class-wc-install.php on line 1179
+[10-Jul-2026 04:06:55 UTC] PHP Warning:  Undefined array key "name" in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woocommerce\includes\class-wc-install.php on line 1177
+[10-Jul-2026 04:06:55 UTC] PHP Warning:  Undefined array key "title" in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woocommerce\includes\class-wc-install.php on line 1179
+[10-Jul-2026 04:09:19 UTC] PHP Warning:  include_once(C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery/admin/inc/meta-options.php): Failed to open stream: No such file or directory in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery\classes\class-cartflows-ca-loader.php on line 428
+[10-Jul-2026 04:09:19 UTC] PHP Warning:  include_once(): Failed opening 'C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery/admin/inc/meta-options.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery\classes\class-cartflows-ca-loader.php on line 428
+[10-Jul-2026 04:09:19 UTC] PHP Warning:  include_once(C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery/inc/abilities/class-wcar-abstract-ability.php): Failed to open stream: No such file or directory in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery\classes\class-cartflows-ca-loader.php on line 431
+[10-Jul-2026 04:09:19 UTC] PHP Warning:  include_once(): Failed opening 'C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery/inc/abilities/class-wcar-abstract-ability.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery\classes\class-cartflows-ca-loader.php on line 431
+[10-Jul-2026 04:09:19 UTC] PHP Warning:  include_once(C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery/inc/abilities/class-wcar-abilities-register.php): Failed to open stream: No such file or directory in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery\classes\class-cartflows-ca-loader.php on line 432
+[10-Jul-2026 04:09:19 UTC] PHP Warning:  include_once(): Failed opening 'C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery/inc/abilities/class-wcar-abilities-register.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery\classes\class-cartflows-ca-loader.php on line 432
+[10-Jul-2026 04:09:19 UTC] PHP Warning:  include_once(C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery/inc/abilities/class-wcar-ability-get-settings.php): Failed to open stream: No such file or directory in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery\classes\class-cartflows-ca-loader.php on line 433
+[10-Jul-2026 04:09:19 UTC] PHP Warning:  include_once(): Failed opening 'C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery/inc/abilities/class-wcar-ability-get-settings.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery\classes\class-cartflows-ca-loader.php on line 433
+[10-Jul-2026 04:09:19 UTC] PHP Warning:  include_once(C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery/inc/abilities/class-wcar-ability-get-setting.php): Failed to open stream: No such file or directory in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery\classes\class-cartflows-ca-loader.php on line 434
+[10-Jul-2026 04:09:19 UTC] PHP Warning:  include_once(): Failed opening 'C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery/inc/abilities/class-wcar-ability-get-setting.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery\classes\class-cartflows-ca-loader.php on line 434
+[10-Jul-2026 04:09:19 UTC] PHP Warning:  include_once(C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery/inc/abilities/class-wcar-ability-update-setting.php): Failed to open stream: No such file or directory in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery\classes\class-cartflows-ca-loader.php on line 435
+[10-Jul-2026 04:09:19 UTC] PHP Warning:  include_once(): Failed opening 'C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery/inc/abilities/class-wcar-ability-update-setting.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery\classes\class-cartflows-ca-loader.php on line 435
+[10-Jul-2026 04:09:19 UTC] PHP Warning:  include_once(C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery/inc/abilities/class-wcar-ability-get-dashboard-stats.php): Failed to open stream: No such file or directory in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery\classes\class-cartflows-ca-loader.php on line 436
+[10-Jul-2026 04:09:19 UTC] PHP Warning:  include_once(): Failed opening 'C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery/inc/abilities/class-wcar-ability-get-dashboard-stats.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery\classes\class-cartflows-ca-loader.php on line 436
+[10-Jul-2026 04:09:19 UTC] PHP Warning:  include_once(C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery/inc/abilities/class-wcar-ability-get-product-stats.php): Failed to open stream: No such file or directory in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery\classes\class-cartflows-ca-loader.php on line 437
+[10-Jul-2026 04:09:19 UTC] PHP Warning:  include_once(): Failed opening 'C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery/inc/abilities/class-wcar-ability-get-product-stats.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery\classes\class-cartflows-ca-loader.php on line 437
+[10-Jul-2026 04:09:19 UTC] PHP Fatal error:  Uncaught Error: Class "WCAR\Inc\Abilities\Wcar_Abilities_Register" not found in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery\classes\class-cartflows-ca-loader.php:439
+Stack trace:
+#0 C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-includes\class-wp-hook.php(341): CARTFLOWS_CA_Loader->load_abilities('')
+#1 C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#3 C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-settings.php(622): do_action('plugins_loaded')
+#4 C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-config.php(103): require_once('C:\\Users\\dylan\\...')
+#5 C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-load.php(50): require_once('C:\\Users\\dylan\\...')
+#6 C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\dylan\\...')
+#7 {main}
+  thrown in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-content\plugins\woo-cart-abandonment-recovery\classes\class-cartflows-ca-loader.php on line 439
+[16-Jul-2026 04:41:30 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[13-Aug-2026 08:13:58 UTC] PHP Warning:  file_get_contents(C:\Users\dylan\Local Sites\woc-distribution\app\public/wp-content/plugins/modern-cart/modern-cart.php): Failed to open stream: No such file or directory in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-includes\functions.php on line 6948
+[13-Aug-2026 08:13:58 UTC] PHP Warning:  file_get_contents(C:\Users\dylan\Local Sites\woc-distribution\app\public/wp-content/plugins/power-coupons/power-coupons.php): Failed to open stream: No such file or directory in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-includes\functions.php on line 6948
+[13-Aug-2026 08:13:59 UTC] PHP Warning:  file_get_contents(C:\Users\dylan\Local Sites\woc-distribution\app\public/wp-content/plugins/woocommerce-payments/woocommerce-payments.php): Failed to open stream: No such file or directory in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-includes\functions.php on line 6948
+[13-Aug-2026 08:14:20 UTC] PHP Warning:  file_get_contents(C:\Users\dylan\Local Sites\woc-distribution\app\public/wp-content/plugins/woocommerce/woocommerce.php): Failed to open stream: No such file or directory in C:\Users\dylan\Local Sites\woc-distribution\app\public\wp-includes\functions.php on line 6948
+[17-Aug-2026 07:20:58 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:20:58 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:20:58 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:20:58 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:35:57 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:35:57 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:35:57 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:35:57 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:35:57 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:35:57 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:35:57 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:35:57 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:35:57 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:35:57 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:36:57 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:36:57 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:36:57 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:36:57 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:36:57 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:36:57 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:36:57 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:36:57 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:36:57 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:36:57 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:37:58 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:37:58 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:37:58 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:37:58 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:37:58 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:37:58 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:37:58 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:37:58 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:37:58 UTC] Invalid url passed to get_utm_ready_link function
+[17-Aug-2026 07:37:58 UTC] Invalid url passed to get_utm_ready_link function
+[18-Aug-2026 02:17:48 UTC] Invalid url passed to get_utm_ready_link function
+[18-Aug-2026 02:17:48 UTC] Invalid url passed to get_utm_ready_link function
+[18-Aug-2026 02:17:48 UTC] Invalid url passed to get_utm_ready_link function
+[19-Aug-2026 07:46:18 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}

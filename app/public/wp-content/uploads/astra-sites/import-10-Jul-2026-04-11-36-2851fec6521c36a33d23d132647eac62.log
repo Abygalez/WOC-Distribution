@@ -1,0 +1,25 @@
+
+[04:11:37 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":84,"offset":"80","chunk_size":10}
+[04:11:37 UTC] [INFO] Processing CE image batch | Context: {"batch_size":4,"offset":"80"}
+[04:11:37 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1117,"file":"woocommerce-placeholder.png"}
+[04:11:38 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":1377,"file":"demo-screenshot.jpg"}
+[04:11:38 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2120,"file":"default.png"}
+[04:11:38 UTC] [INFO] Generating attachment metadata | Context: {"attachment_id":2284,"file":"woocommerce-placeholder-6.webp"}
+[04:11:39 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":4,"errors":0,"new_offset":90}
+[04:11:39 UTC] [INFO] Starting CE image metadata processing | Context: {"total_attachments":84,"offset":90,"chunk_size":10}
+[04:11:39 UTC] [INFO] Processing CE image batch | Context: {"batch_size":0,"offset":90}
+[04:11:39 UTC] [SUCCESS] CE image batch processing completed | Context: {"successful":0,"errors":0,"new_offset":100}
+[04:11:39 UTC] [INFO] ---- Processing Images from Widgets -----
+[04:11:39 UTC] [INFO] ---- Processing WordPress Posts / Pages - for Elementor ----
+[04:11:39 UTC] [INFO] No Elementor pages found that need processing.
+[04:11:39 UTC] [INFO] ---- Processing batch process for Customizer start ----
+[04:11:39 UTC] [INFO] ---- Processing batch process for Customizer done ----
+[03:12:59 UTC] [INFO] Checking if plugin directory clearing is needed
+[03:13:15 UTC] [INFO] Checking if plugin directory clearing is needed
+[03:13:27 UTC] [INFO] Checking if plugin directory clearing is needed
+[03:13:40 UTC] [INFO] Checking if plugin directory clearing is needed
+[03:13:48 UTC] [INFO] Checking if plugin directory clearing is needed
+[03:14:08 UTC] [INFO] Checking if plugin directory clearing is needed
+[03:17:17 UTC] [INFO] Checking if plugin directory clearing is needed
+[05:40:17 UTC] [INFO] Checking if plugin directory clearing is needed
+[06:26:19 UTC] [INFO] Checking if plugin directory clearing is needed
